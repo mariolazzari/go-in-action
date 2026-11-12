@@ -1,1 +1,3 @@
-# go-in-action
+# Go in action
+
+## Intro
